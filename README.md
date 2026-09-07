@@ -24,7 +24,7 @@ This lab builds deep learning skills from the ground up — starting with neural
 
 ## Interactive tools
  
-- **[The Analog Perceptron](https://msalmazyad.github.io/analog-perceptron/)** — Rosenblatt's perceptron as a physical machine: toggle switches are the inputs, knobs are the weights, and an analog needle reads the weighted sum. Train it, step through it one knob at a time, see the decision boundary it draws, and watch the 3-D error surface trace the path the run actually took. Three boards: 2 inputs (AND, OR, NAND, NOR — and not XOR), 4 x 4 inputs (X vs O, T vs J), and 2 layers (XOR, trained with backpropagation). One self-contained HTML file, interface in English and Arabic. Source: [msalmazyad/analog-perceptron](https://github.com/msalmazyad/analog-perceptron).
+- **[The Analog Perceptron](https://msalmazyad.github.io/analog-perceptron/)** — Rosenblatt's perceptron as a physical machine: toggle switches are the inputs, knobs are the weights, and an analog needle reads the weighted sum. Train it, step through it one knob at a time, see the decision boundary it draws, and watch the 3-D error surface trace the path the run actually took. Three boards: 2 inputs (AND, OR, NAND, NOR — and not XOR), 4 x 4 inputs (X vs O, T vs J), and 2 layers (XOR, trained with backpropagation). One self-contained HTML file, interface in English and Arabic.
 
   Pair it with **lab01** — the single neuron, weights and biases as knobs, the step function, and a layer — and with **lab02** — why one layer cannot solve XOR, gradient descent, and backpropagation.
 
